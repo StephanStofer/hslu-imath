@@ -1,0 +1,3 @@
+[submodule "hslu-imath-mep"]
+	path = hslu-imath-mep
+	url = https://github.com/StephanStofer/hslu-imath-mep.git
